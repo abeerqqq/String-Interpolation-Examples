@@ -24,7 +24,7 @@ Console.WriteLine(usertest);
 
 /*Functioal Calls*/
 DateTime dateTime = DateTime.Now;
-string date = $"Date Now is: {dateTime.ToShortDateString()}"; // Date Now is: 1/17/2024
+string date = $"Date Now is: {dateTime.ToShortDateString()}"; // Date Now is: 1/17/2024 
 string date1 = $"Date Now is: {dateTime.ToLongDateString()}"; //Wednesday, January 17, 2024
 string date2 = $"Date Now is: {dateTime.ToLongTimeString()}"; //Date Now is: 10:20:01 AM
 string date3 = $"Date Now is: {dateTime.ToShortTimeString()}"; //Date Now is: 10:21 AM
